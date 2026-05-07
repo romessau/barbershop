@@ -1,0 +1,19 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+body {
+  min-width: 320px;
+  background: #0d0f0f;
+}
+
+img,
+svg {
+  display: block;
+}
